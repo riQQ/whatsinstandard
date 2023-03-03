@@ -216,6 +216,30 @@
       "enter_date": "2022-11-18T00:00:00.000",
       "exit_date": null,
       "rough_exit_date": "Q4 2024"
+    },
+    {
+      "name": "Phyrexia: All Will Be One",
+      "block": null,
+      "code": "ONE",
+      "enter_date": "2023-02-03T00:00:00.000",
+      "exit_date": null,
+      "rough_exit_date": "Q4 2024"
+    },
+    {
+      "name": "March of the Machine",
+      "block": null,
+      "code": "MOM",
+      "enter_date": "2023-04-14T00:00:00.000",
+      "exit_date": null,
+      "rough_exit_date": "Q4 2024"
+    },
+    {
+      "name": "March of the Machine: The Aftermath",
+      "block": null,
+      "code": "MAT",
+      "enter_date": "2023-05-12T00:00:00.000",
+      "exit_date": null,
+      "rough_exit_date": "Q4 2025"
     }
   ],
   "bans": [
@@ -295,6 +319,13 @@
       "set_code": "KHM",
       "reason": "Banned for being too efficient in monocolor aggro decks.",
       "announcement_url": "https://magic.wizards.com/en/articles/archive/news/january-25-2022-banned-and-restricted-announcement"
+    },
+    {
+      "card_name": "The Meathook Massacre",
+      "card_image_url": "https://cards.scryfall.io/large/front/0/8/08950015-eee5-4327-888c-82dfd13bb9ad.jpg",
+      "set_code": "MID",
+      "reason": "Banned for the color black's play rate among competitive decks being a bit too high.",
+      "announcement_url": "https://magic.wizards.com/en/articles/archive/news/october-10-2022-banned-and-restricted-announcement"
     }
   ]
 }

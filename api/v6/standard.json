@@ -479,7 +479,7 @@
     },
     {
       "name": "Dominaria United",
-      "codename": null,
+      "codename": "Judo",
       "code": "DMU",
       "symbol": {
         "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=DMU",
@@ -498,7 +498,7 @@
     },
     {
       "name": "The Brothers' War",
-      "codename": null,
+      "codename": "Kayaking",
       "code": "BRO",
       "symbol": {
         "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=BRO",
@@ -517,16 +517,16 @@
     },
     {
       "name": "Phyrexia: All Will Be One",
-      "codename": null,
-      "code": null,
+      "codename": "Lacrosse",
+      "code": "ONE",
       "symbol": {
-        "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=null",
-        "uncommon": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=U&set=null",
-        "rare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=R&set=null",
-        "mythicRare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=M&set=null"
+        "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=ONE",
+        "uncommon": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=U&set=ONE",
+        "rare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=R&set=ONE",
+        "mythicRare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=M&set=ONE"
       },
       "enterDate": {
-        "exact": "2023-03-03T00:00:00.000",
+        "exact": "2023-02-03T00:00:00.000",
         "rough": "Q1 2023"
       },
       "exitDate": {
@@ -536,16 +536,16 @@
     },
     {
       "name": "March of the Machine",
-      "codename": null,
-      "code": null,
+      "codename": "Marathon",
+      "code": "MOM",
       "symbol": {
-        "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=null",
-        "uncommon": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=U&set=null",
-        "rare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=R&set=null",
-        "mythicRare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=M&set=null"
+        "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=MOM",
+        "uncommon": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=U&set=MOM",
+        "rare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=R&set=MOM",
+        "mythicRare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=M&set=MOM"
       },
       "enterDate": {
-        "exact": null,
+        "exact": "2023-04-14T00:00:00.000",
         "rough": "Q2 2023"
       },
       "exitDate": {
@@ -556,16 +556,16 @@
     {
       "name": "March of the Machine: The Aftermath",
       "codename": null,
-      "code": null,
+      "code": "MAT",
       "symbol": {
-        "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=null",
-        "uncommon": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=U&set=null",
-        "rare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=R&set=null",
-        "mythicRare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=M&set=null"
+        "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=MAT",
+        "uncommon": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=U&set=MAT",
+        "rare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=R&set=MAT",
+        "mythicRare": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=M&set=MAT"
       },
       "enterDate": {
-        "exact": null,
-        "rough": "Q3 2023"
+        "exact": "2023-05-12T00:00:00.000",
+        "rough": "Q2 2023"
       },
       "exitDate": {
         "exact": null,
@@ -574,7 +574,7 @@
     },
     {
       "name": "Wilds of Eldraine",
-      "codename": null,
+      "codename": "Netball",
       "code": null,
       "symbol": {
         "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=null",
@@ -593,7 +593,7 @@
     },
     {
       "name": "The Lost Caverns of Ixalan",
-      "codename": null,
+      "codename": "Offroading",
       "code": null,
       "symbol": {
         "common": "http://gatherer.wizards.com/Handlers/Image.ashx?type=symbol&size=large&rarity=C&set=null",
@@ -688,6 +688,13 @@
       "setCode": "KHM",
       "reason": "Banned for being too efficient in monocolor aggro decks.",
       "announcementUrl": "https://magic.wizards.com/en/articles/archive/news/january-25-2022-banned-and-restricted-announcement"
+    },
+    {
+      "cardName": "The Meathook Massacre",
+      "cardImageUrl": "https://cards.scryfall.io/large/front/0/8/08950015-eee5-4327-888c-82dfd13bb9ad.jpg",
+      "setCode": "MID",
+      "reason": "Banned for the color black's play rate among competitive decks being a bit too high.",
+      "announcementUrl": "https://magic.wizards.com/en/articles/archive/news/october-10-2022-banned-and-restricted-announcement"
     }
   ]
 }
